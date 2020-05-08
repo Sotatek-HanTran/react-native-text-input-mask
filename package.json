@@ -1,6 +1,6 @@
 {
   "_from": "react-native-text-input-mask",
-  "_id": "react-native-text-input-mask@0.8.0",
+  "_id": "react-native-text-input-mask@1.0.0",
   "_inBundle": false,
   "_integrity": "sha512-AYsFS0AovXwaWOfSwg6QgtUTlnQ7r5pLi5pfomkaPj8qT56I0FQZL6CBU7Mcvz9SWSW2kF6ydfIZezCjdS2vDg==",
   "_location": "/react-native-text-input-mask",
@@ -19,10 +19,6 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/react-native-text-input-mask/-/react-native-text-input-mask-0.8.0.tgz",
-  "_shasum": "30f0de0215644db10719c4b1d29610605fb57262",
-  "_spec": "react-native-text-input-mask",
-  "_where": "/Users/thanh.tran/workspace/trading/bitkoex-mobile",
   "author": {
     "name": "Ivan Zotov"
   },
@@ -47,5 +43,11 @@
     "type": "git",
     "url": "git+https://github.com/react-native-community/react-native-text-input-mask.git"
   },
-  "version": "0.8.0"
+  "version": "1.0.0",
+  "files": [
+    "android",
+    "ios",
+    "index.js",
+    "react-native-text-input-mask.podspec"
+  ]
 }
